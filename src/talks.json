@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Dr. Evelyn Reed"],
+    "categories": ["AI", "Machine Learning", "Future Tech"],
+    "duration": 60,
+    "description": "A deep dive into the next generation of AI, exploring advancements in neural networks and their potential impact on society."
+  },
+  {
+    "title": "Modern JavaScript Frameworks in 2026",
+    "speakers": ["Johnathan Carter", "Maria Garcia"],
+    "categories": ["JavaScript", "Web Development", "Frameworks"],
+    "duration": 60,
+    "description": "An overview and comparison of the latest JavaScript frameworks, with live-coding examples and performance benchmarks."
+  },
+  {
+    "title": "Quantum Computing: From Theory to Reality",
+    "speakers": ["Dr. Kenji Tanaka"],
+    "categories": ["Quantum Computing", "Physics", "Future Tech"],
+    "duration": 60,
+    "description": "This talk demystifies quantum computing, explaining the fundamental principles and showcasing the first real-world applications."
+  },
+  {
+    "title": "Cybersecurity in a Post-Quantum World",
+    "speakers": ["Aisha Khan"],
+    "categories": ["Cybersecurity", "Quantum Computing", "Security"],
+    "duration": 60,
+    "description": "As quantum computers emerge, what are the new threats to our digital infrastructure, and how can we prepare our defenses?"
+  },
+  {
+    "title": "The Ethics of Code: A Developer's Guide",
+    "speakers": ["Samuel Jones", "Olivia Chen"],
+    "categories": ["Ethics", "Software Development", "Best Practices"],
+    "duration": 60,
+    "description": "A discussion on the ethical responsibilities of software developers, from data privacy to algorithmic bias."
+  },
+  {
+    "title": "Building Scalable Systems with Microservices",
+    "speakers": ["Isabella Rossi"],
+    "categories": ["Microservices", "Architecture", "Web Development"],
+    "duration": 60,
+    "description": "Learn the patterns and practices for designing, deploying, and maintaining a scalable and resilient microservices architecture."
+  }
+]

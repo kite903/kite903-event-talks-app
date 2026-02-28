@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+
+# Build output
+public/
+
+# macOS specific files
+.DS_Store
+
+# npm debug logs
+npm-debug.log*
